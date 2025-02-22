@@ -1,0 +1,7 @@
+#Hello! I wanted to practice creating a basic web browser! I utilized Spyder for the programming through the Anaconda Navigator. 
+
+Before running this code, you need to be sure that you have installed PyQt6. 
+This is necessary because PyQt6 is a set of Python bindings for Qt 6, which is a widely used framework for 
+developing graphical user interfaces (GUIs). Also, when creating web browsers using Python, the often use PyQt6.
+
+Be sure to also add the PyQt6-WebEngine! This will be needed!
